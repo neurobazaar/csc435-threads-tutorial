@@ -1,4 +1,5 @@
 app-java/target
+app-java/.idea
 app-cpp/build
 .vscode
 .venv
